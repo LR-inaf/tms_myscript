@@ -4,6 +4,10 @@
 Created on Fri May 19 11:43:04 2023
 
 @author: Luca
+
+Class to read most of the data generated from the tms_extract.py script
+All the tables read form a specified folder are stored into a dataframes,
+which in turn are within a dictionary.
 """
 import pandas as pd
 import os
