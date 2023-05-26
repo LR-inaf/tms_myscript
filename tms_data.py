@@ -3,7 +3,7 @@
 """
 Created on Fri May 19 11:43:04 2023
 
-@author: Luca
+@author: Luca Rosignoli
 
 Class to read most of the data generated from the tms_extract.py script
 All the tables read form a specified folder are stored into a dataframes,
