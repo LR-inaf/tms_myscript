@@ -2,7 +2,8 @@
 """
 Created on Fri May 19 15:48:59 2023
 
-@author: Luca
+@author: Luca Rosignoli
+Script to red a tms run and plot the pose evolution (x,y,z,rx,rx,rz) and their corrections.
 """
 
 
