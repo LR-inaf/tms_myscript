@@ -12,8 +12,8 @@ import matplotlib.pyplot as plt
 import os
 import numpy as np
 
-path = 'C:/Users/rodeghiero/Desktop/LBT_TMS/Etalon_run'
-timestamp = '20230510'
+path = ''
+timestamp = ''
 
 #Load data
 tms_run = tms_data(path, timestamp)
